@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and perfect relation of a great victory obtained by the Parliaments forces in Northumberland: together with a list of all the prisoners, horse and arms taken; with the surrender of Curtington Castle, with all the arms and ammunition. As also the late bloody practices of the garrison of Pontefract at Doncaster, and other places. In two letters from gentlemen of quality to their friends in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94947</idno>
+            <idno type="STC">Wing T2542</idno>
+            <idno type="STC">Thomason E451_22</idno>
+            <idno type="STC">ESTC R205262</idno>
+            <idno type="EEBO-CITATION">99864679</idno>
+            <idno type="PROQUEST">99864679</idno>
+            <idno type="VID">161937</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94947)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161937)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E451[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and perfect relation of a great victory obtained by the Parliaments forces in Northumberland: together with a list of all the prisoners, horse and arms taken; with the surrender of Curtington Castle, with all the arms and ammunition. As also the late bloody practices of the garrison of Pontefract at Doncaster, and other places. In two letters from gentlemen of quality to their friends in London.</title>
+                  <author>Bishop, Rich., fl. 1648.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The second letter is signed (p.8): Rich. Bishop.</note>
+                  <note>Annotation on Thomason copy: "July 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161937:1" rendition="simple:additions"/>
+            <p>A true and perfect RELATION OF A Great Victory obtained by the Parliaments Forces IN <hi>NORTH<g ref="char:V">Ʋ</g>MBERLAND:</hi> Together with a Liſt of all the Priſoners, Horſe and Arms taken; with the ſurrender of <hi>Curtington</hi> Caſtle, with all the Arms and Ammunition.</p>
+            <p>As alſo the late bloody practiſes of the Garri<g ref="char:EOLhyphen"/>ſon of <hi>Pontefract</hi> at <hi>Doncaſter,</hi> and other places.</p>
+            <p>In two Letters from Gentlemen of quality to their Friends in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. M.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161937:2"/>
+            <pb n="3" facs="tcp:161937:2"/>
+            <head>
+               <hi>A true Relation of the great Victory obtained by the Parliaments Forces, under the Command of Major Gene<g ref="char:EOLhyphen"/>ral</hi> Lambert, <hi>over</hi> Langdales <hi>Forces, in</hi> Northumberland <hi>and the</hi> Biſhoprick <hi>of</hi> Durham.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>GOd is pleaſed to work wonders day<g ref="char:EOLhyphen"/>ly; and when we leaſt think of help, but rather expect a ruine, God then is pleaſed to ſtep in and ſtay us, as may appear by this great victory God hath given to us unexpectedly; the manner of it was thus: The Scots were neer the borders of England to joyn with <hi>Langdale,</hi> and thoſe Forces that belonged to Northumberland and Bi<g ref="char:EOLhyphen"/>ſhoprick, who were now in Northumber<g ref="char:EOLhyphen"/>land under the Command of Col. Grey and Sir Richard Tempeſt, being in number about twelve hundred Horſe, who lay together ex<g ref="char:EOLhyphen"/>pecting to joyn with ſix hundred Foot that were to march out of Barwick that day they
+<pb n="4" facs="tcp:161937:3"/>were taken, &amp; had not they then bin taken they had within 3 hours bin upon their march to meet the Foot toward Barwik, being unwilling to engage without more Forces though they were twelve hundred and we but nine hun<g ref="char:EOLhyphen"/>dred: Our men very early on Saturday mor<g ref="char:EOLhyphen"/>ning before break of day fell into their quar<g ref="char:EOLhyphen"/>ters, and after they had beaten up one of their quarters and taken them that were there pri<g ref="char:EOLhyphen"/>ſoners, the ſouldiers then were ſo reſolute that they rode Poſt to all the quarters round about where the Cavaliers were quartered, and took them in their beds, and their Horſes at graſſe: only Cartington caſtle, where ſir Ri<g ref="char:EOLhyphen"/>chard Tempeſt was, ſtood out two hours, but we loſt no men, only two horſes killed: It wil much daunt the Scots joyning with <hi>Lang<g ref="char:EOLhyphen"/>dale</hi> and interrupt their preſent deſign, which was to march into England to engage the Forces with LAMBERT: I ſee it is good to leave all to God; when we think leaſt God doth moſt: Oh that men would give the whole glory to God! The Commanders that are taken were the chief Actors in raiſing a new War in the North and bringing in the Scots.
+<pb n="5" facs="tcp:161937:3"/>I have much more to write, but I am in haſte, in providing entertainment for the priſoners, therefore ſay no more, but give the glory to God.</p>
+            <p>
+               <list>
+                  <head>Priſoners taken in Northumberland July the firſt.</head>
+                  <item>Colonel <hi>Edward Grey</hi> Commander in chief of the Forces in <hi>Northumberland.</hi> Col. <hi>Richard Tempeſt,</hi> Baronet, Comman<g ref="char:EOLhyphen"/>der in chief of the Forces in the County of <hi>Durham.</hi>
+                  </item>
+                  <item>Sir <hi>Francis Ratliff.</hi> Baronet <hi>Ratliffs</hi> ſon. Sir <hi>Jervis Lucas.</hi>
+                  </item>
+                  <item>Mr. <hi>George Bellaſis,</hi> M. <hi>George Collingwood,</hi> M. <hi>John Col<g ref="char:EOLhyphen"/>lingwood,</hi> Reformadoes.</item>
+                  <item>Lieutenant Col. <hi>John Salkeld:</hi> Lieut. Col. <hi>Ralph Millett:</hi> Lieut. Col. <hi>John Thornton.</hi>
+                  </item>
+                  <item>Major <hi>Thomas Salkeld:</hi> Major <hi>Trollope.</hi>
+                  </item>
+                  <item>Captain <hi>Francis Brandling:</hi> Cap. <hi>James Shaftoe:</hi> Cap. <hi>Hugh James:</hi> Cap. <hi>Smith:</hi> Cap. <hi>Aſcue:</hi> Cap. <hi>Ambroſe Carleton;</hi> Cap. <hi>Fetherſton Haugh:</hi> Cap. <hi>Francis Carleton.</hi>
+                  </item>
+                  <item>Mr. <hi>Gowen Ratcliff:</hi> M. <hi>Ralph Bowes:</hi> M. <hi>Roger Ratliff:</hi> M. <hi>John Wright:</hi> M. <hi>John Thornton:</hi> M. <hi>William Hodgson:</hi> M. <hi>Charles Selby:</hi> M. <hi>John Thurlwel:</hi> M. <hi>William Hampton:</hi> M. <hi>Shawe:</hi> M. <hi>Hauſlet Selby:</hi> M. <hi>Nicholas Woodhuſe:</hi> M. <hi>Anthony Trollope:</hi> M. <hi>John Fitz Williams:</hi> M. <hi>John Siſon:</hi> M. <hi>Thomas Hurdey:</hi> M. <hi>John Watſon:</hi> M. <hi>Ralph Claxton:</hi> M. <hi>John Siſon</hi> ſenior. M. <hi>Thomas Hurdey:</hi> M. <hi>John Watſon.</hi>
+                  </item>
+               </list> And many other Gentlemen and Officers that I cannot give you the number of now, and above three hundred ſouldiers, and betwixt five and ſix hundred Horſe, with great ſtore of Arms: The Enemy was about eleven or twelve hundred ſtrong, and we about nine hundred ſtrong.</p>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:161937:4"/>
+            <head>A true RELATION OF THE BEHAVIOVR OF THE <hi>PONTEFRACT FORCES</hi> IN DONCASTER.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>UPon the ninth of this inſtant came a party from <hi>Pontefract</hi> to <hi>Doncaſter,</hi> between one and two of the clock in the night, unto the dwelling houſe of Mr. <hi>Hafford,</hi> the Poſt-Maſter, and knock<g ref="char:EOLhyphen"/>ed at the door, and cryed, a Poſt, the door being opened they cryed, Lights, Lights, ſtruck the ſervants, and cut one of them in the head, crying, <hi>God damn me,</hi> ye Rogues, where is your Maſter that traytorly Rogue? Crying, wounds they would cut him as ſmall as herbs for the pot; ſhe being in bed, ſlipt on a Petticoat, and went down to them, but they drave her up the ſtairs again with their naked Swords and Piſtols, crying, <hi>God damn
+<pb n="7" facs="tcp:161937:4"/>me,</hi> you whore, you Parliament Bitch, your money, your Plate, and your 20. <hi>l.</hi> Horſes; one with his fiſt ſtruck her on the face, ſaying, The King is come home Jade, and ſtriking her over the ſhoulder with his ſword, ſaid, <hi>Pontefract Caſtle</hi> is ours Whore: and ſo taking 3 horſe, with ſome other things that they ſtole, they went away to Miſtris <hi>Cooleings,</hi> where my Lady <hi>Fair<g ref="char:EOLhyphen"/>fax</hi> of <hi>Gilling</hi> lay, which was ſuppoſed to be the Lord Generals wife; they knocking at the door, which was not opened in that haſt they expected, they cryed, bring up the Foot, march up Dragoons, caſt up your fire-bals and fire the houſe; the door being opened, they ſtrait up to the Ladies Chamber; ſhe being of their own party, thought them to be <hi>Sheffield</hi> men; they broke up the door upon her, not ſuffering her to put a petti<g ref="char:EOLhyphen"/>coat about her, crying, Yield up your ſelf Whore, your Rings, your Jewels, your Horſes, and your ſelf; ſtanding with their Swords and Piſtols over her, cryed, <hi>God damn me,</hi> Whore, ſpeak not, but yield up your ſelf, you Bitch, you Jade. The Lady in this ſad condition, asked if there were a Gentleman among them? One of them ſaid he was a Gentleman; then ſhe deſired him to divulge himſelf to her, and ſhe would divulge her ſelf to him; which when they underſtood, that ſhe was one of their own Party, they ſaid they were ſorry for what they had done to her: and one of them ſaid, as he ſate on horſe back, to <hi>George Cooleing,</hi> preſent my ſervice to my Lady and tell her, <hi>God damn me,</hi> that he was ſorry for what he had done unto her Ladyſhip: But God confound him, body and ſoul, had it been <hi>Fairfax</hi> his Lady, he would have piſtolled her, and have run her through with his ſword, and have cut her up for the fowls to have gazed upon.</p>
+            <pb n="8" facs="tcp:161937:5"/>
+            <p>The next day the ſaid Lady went to the Caſtle to complain of them, the Caſtle ſaid they went without order, and that they ſhould be puniſhed: They, to co<g ref="char:EOLhyphen"/>lour their doings, ſaid, Miſtriſs <hi>Hafford</hi> ſent them over; yet ſome of them ſaid they had news of her being there the night before: Whereupon one called Captain <hi>Biſhop</hi> writ thus to Miſtriſs <hi>Hafford,</hi> to wit;</p>
+            <floatingText type="letter" xml:lang="eng" rend="italic">
+               <body>
+                  <p>Miſtriſs Hafford, through your abuſive miſ-information, you made us injure ſuch ſouls as our ſouls honored, for which you must look to give a ſtrict accompt; therefore I would adviſe you, for your now ſecurity, to ſend me your brown bay Nag, which if you will do, I ſhall be your ſervant, if not, you must expect what follows; thus If you will obey my com<g ref="char:EOLhyphen"/>mand, and ſend me your Nagg, I ſhall reſt</p>
+                  <closer>
+                     <signed>Your friend <hi>Rich. Biſhop.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>There was Captain <hi>Mathewman,</hi> and M. <hi>Naſh</hi> that we knew, the reſt are unknown as yet by name.</p>
+            <p>One of theſe <hi>Pontefract</hi> Gentlemen came to Miſtriſs <hi>Cooling,</hi> and ſtroaked her with his hand under the chin, and ſaid to her, O little Rogue! who would have thought to have ſeen the Cavaliers to have raigned a<g ref="char:EOLhyphen"/>gain. She ſaid, Sir, the Cavaliers are very welcom to me, and they carry themſelves like civil Gentlemen; hereupon he lift up his hand, and ſmote her a good round box on the eare, ſaying thus, A pox take you for a diſſembling Jade.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
